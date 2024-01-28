@@ -1,0 +1,38 @@
+body{
+    font-family: 'Roboto Slab', serif;
+    
+}
+
+button{
+    background: rebeccapurple;
+    padding: 25px;
+}
+
+.header{
+    height: 90vh;
+    width:100%;
+    background-image: linear-gradient(to right,rgba(0, 0, 0, 0.5),rgba(186, 9, 235, 0.4)), url(/images/bootstrap-alternatives.jpg);
+    background-size: cover;
+    color:rgb(255, 255, 255);
+    
+}
+.h-100{
+    height: 100%;
+    width: 100%;
+}
+
+.btn{
+    border-radius: 10rem !important;
+    padding:0.5rem 1.0rem !important;
+    background: rebeccapurple;
+        color: #ffffff;
+   
+}
+
+.message{
+    background: linear-gradient(to right, rgba(200, 50, 226, 0.5), rgba(57, 1, 73, 0.627));
+    color: #ffffff;
+      }
+      
+
+    
